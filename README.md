@@ -26,4 +26,7 @@ You will be creating and comparing two models on this data: a logistic regressio
 
 Create a LogisticRegression model, fit it to the data, and print the model's score. Do the same for a RandomForestClassifier. You may choose any starting hyperparameters you like. Which model performed better? How does that compare to your prediction? Write down your results and thoughts.
 
+## Conclusion
+
+The final results supports the random forest classifier as more accurate and gave a better score when compared the two models. The also the random forest performs better with catagorical data and can handle outliers better.
 
